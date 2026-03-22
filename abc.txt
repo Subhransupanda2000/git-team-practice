@@ -4,4 +4,4 @@ I am learning how to handle conflicts in real projects.
 Git is extremely important for developers.
 Understanding merge conflicts is a critical real-world skill.
 
-This line is written from Account B.
+This line is written from Account A.
