@@ -1,2 +1,7 @@
-feacture shipping integrated 1.2
-hello
+This is a demo file for practicing git merge conflicts.
+I am learning how to handle conflicts in real projects.
+
+Git is very important for developers.
+Understanding merge conflicts will help me in interviews and real work.
+
+This line is written from Account A.
